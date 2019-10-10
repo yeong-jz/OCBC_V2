@@ -399,7 +399,7 @@ if  __name__  ==  '__main__' :
     name = "ocbc_" + str(date.today()) +".csv"
     directory = "s3://data-pipeline-cardspal/"+str(date.today())+"/extracts/"+ name
     with s3.open(directory,'w') as f:
-        StandardDeals.to_csv(f)
+        StandardDeals.to_csv(f, index=False)
     print("OCBC uploaded.")
 
     print("--- %s minutes ---" % ((time.time() - start_time)/60))
