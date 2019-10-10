@@ -1,0 +1,9 @@
+pandas==0.25.1
+numpy==1.15.4
+boto3==1.9.210
+geopy==1.20.0
+tqdm==4.28.1
+requests==2.20.1
+s3fs==0.3.4
+beautifulsoup4==4.8.1
+scikit_learn==0.21.3

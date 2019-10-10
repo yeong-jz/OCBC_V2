@@ -1,0 +1,82 @@
+﻿postal_sector,postal_district,postal_district_name,general_location,suggested_area
+1,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+2,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+3,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+4,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+5,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+6,1,City - Business District,"Raffles Place, Cecil, Marina, People's Park",South
+7,2,City - Business District,"Anson, Tanjong Pagar",South
+8,2,City - Business District,"Anson, Tanjong Pagar",South
+14,3,Central South,"Bukit Merah, Queenstown, Tiong Bahru",South
+15,3,Central South,"Bukit Merah, Queenstown, Tiong Bahru",South
+16,3,Central South,"Bukit Merah, Queenstown, Tiong Bahru",South
+9,4,South,"Telok Blangah, Harbourfront",South
+10,4,South,"Telok Blangah, Harbourfront",South
+11,5,South West,"Pasir Panjang, Hong Leong Garden, Clementi New Town",South
+12,5,South West,"Pasir Panjang, Hong Leong Garden, Clementi New Town",South
+13,5,South West,"Pasir Panjang, Hong Leong Garden, Clementi New Town",South
+17,6,City - Business District,"High Street, Beach Road (part)",South
+18,7,City,"Middle Road, Golden Mile",South
+19,7,City,"Middle Road, Golden Mile",South
+20,8,Central,"Little India, Farrer Park, Jalan Besar, Lavender",South
+21,8,Central,"Little India, Farrer Park, Jalan Besar, Lavender",South
+22,9,Central - Orchard,"Orchard, Cairnhill, River Valley",Central
+23,9,Central - Orchard,"Orchard, Cairnhill, River Valley",Central
+24,10,Central - Near Orchard,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+25,10,Central - Near Orchard,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+26,10,Central - Near Orchard,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+27,10,Central - Near Orchard,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+28,11,Central - Near Orchard,"Watten Estate, Novena, Thomson",Central
+29,11,Central - Near Orchard,"Watten Estate, Novena, Thomson",Central
+30,11,Central - Near Orchard,"Watten Estate, Novena, Thomson",Central
+31,12,Central,"Balestier, Toa Payoh, Serangoon",Central
+32,12,Central,"Balestier, Toa Payoh, Serangoon",Central
+33,12,Central,"Balestier, Toa Payoh, Serangoon",Central
+34,13,Central East,"Macpherson, Braddell",East
+35,13,Central East,"Macpherson, Braddell",East
+36,13,Central East,"Macpherson, Braddell",East
+37,13,Central East,"Macpherson, Braddell",East
+38,14,Central East,"Geylang, Eunos",East
+39,14,Central East,"Geylang, Eunos",East
+40,14,Central East,"Geylang, Eunos",East
+41,14,Central East,"Geylang, Eunos",East
+42,15,East Coast,"Katong, Joo Chiat, Amber Road",East
+43,15,East Coast,"Katong, Joo Chiat, Amber Road",East
+44,15,East Coast,"Katong, Joo Chiat, Amber Road",East
+45,15,East Coast,"Katong, Joo Chiat, Amber Road",East
+46,16,Upper East Coast,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+47,16,Upper East Coast,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+48,16,Upper East Coast,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+49,17,Far East,"Loyang, Changi",East
+50,17,Far East,"Loyang, Changi",East
+81,17,Far East,"Loyang, Changi",East
+51,18,Far East,"Simei, Tampines, Pasir Ris",East
+52,18,Far East,"Simei, Tampines, Pasir Ris",East
+53,19,North East,"Serangoon Garden, Hougang, Punggol",East
+54,19,North East,"Serangoon Garden, Hougang, Punggol",East
+55,19,North East,"Serangoon Garden, Hougang, Punggol",East
+82,19,North East,"Serangoon Garden, Hougang, Punggol",East
+56,20,Central North,"Bishan, Ang Mo Kio",North
+57,20,Central North,"Bishan, Ang Mo Kio",North
+58,21,Central West,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West
+59,21,Central West,"Upper Bukit Timah, Clementi Park, Ulu Pandan",West
+60,22,Far West,"Jurong, Tuas",West
+61,22,Far West,"Jurong, Tuas",West
+62,22,Far West,"Jurong, Tuas",West
+63,22,Far West,"Jurong, Tuas",West
+64,22,Far West,"Jurong, Tuas",West
+65,23,North West,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+66,23,North West,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+67,23,North West,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+68,23,North West,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+69,24,Far North West,"Lim Chu Kang, Tengah",West
+70,24,Far North West,"Lim Chu Kang, Tengah",West
+71,24,Far North West,"Lim Chu Kang, Tengah",West
+72,25,Far North,"Kranji, Woodgrove, Woodlands",North
+73,25,Far North,"Kranji, Woodgrove, Woodlands",North
+77,26,North,"Upper Thomson, Springleaf",North
+78,26,North,"Upper Thomson, Springleaf",North
+75,27,Far North,"Yishun, Sembawang",North
+76,27,Far North,"Yishun, Sembawang",North
+79,28,North East,Seletar,North
+80,28,North East,Seletar,North

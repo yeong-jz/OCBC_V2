@@ -1,0 +1,191 @@
+﻿card_type,Issuer,bank,ccbuddy_card_name,singsaver_card_name,card_name,deal_handler
+Credit,AMEX,DBS,DBS Altitude American Express® Card,,DBS Altitude American Express® Card,DBS Altitude American Express® Card
+Credit,Visa,DBS,DBS Altitude Visa Signature Card,DBS ALTITUDE VISA SIGNATURE CARD,DBS Altitude Visa Signature Card,DBS Altitude Visa Signature Card
+Credit,AMEX,DBS,DBS Black American Express® Card,DBS BLACK AMERICAN EXPRESS CARD,DBS Black American Express® Card,DBS Black American Express® Card
+Credit,Visa,DBS,DBS Black Visa Card,DBS BLACK VISA CARD,DBS Black Visa Card,DBS Black Visa Card
+Credit,Master,DBS,DBS Esso Card,DBS ESSO CARD,DBS Esso Card,DBS Esso Card
+Credit,Visa,DBS,DBS Insignia Visa Infinite Card,,DBS Insignia Visa Infinite Card,DBS Insignia Visa Infinite Card
+Credit,Visa,DBS,DBS Live Fresh Card,DBS LIVE FRESH VISA CARD,DBS Live Fresh Card,DBS Live Fresh Card
+Debit,Visa,DBS,DBS Live Fresh Student Card,,DBS Live Fresh Student Card,DBS Live Fresh Student Card
+Credit,Master,DBS,DBS MasterCard Platinum Card,,DBS MasterCard Platinum Card,DBS MasterCard Platinum Card
+Credit,Master,DBS,DBS NUS Alumni Card,DBS NUS ALUMNI & DBS NUSS CARDS,DBS NUS Alumni Card,DBS NUS Alumni Card
+Credit,Visa,DBS,DBS NUSS Visa Platinum Card ,DBS NUS ALUMNI & DBS NUSS CARDS,DBS NUSS Visa Platinum Card ,DBS NUSS Visa Platinum Card 
+Debit,Master,DBS,DBS NUSSU Debit Card,,DBS NUSSU Debit Card,DBS NUSSU Debit Card
+Debit,Visa,DBS,DBS Private Bank Debit Card,,DBS Private Bank Debit Card,DBS Private Bank Debit Card
+Debit,Visa,DBS,DBS SUTD Alumnus Debit Card,,DBS SUTD Alumnus Debit Card,DBS SUTD Alumnus Debit Card
+Credit,AMEX,DBS,DBS Takashimaya American Express® Card,DBS TAKASHIMAYA AMERICAN EXPRESS CARD,DBS Takashimaya American Express® Card,DBS Takashimaya American Express® Card
+Debit,Visa,DBS,DBS Takashimaya Debit Card,,DBS Takashimaya Debit Card,DBS Takashimaya Debit Card
+Credit,Visa,DBS,DBS Takashimaya Visa Card,DBS TAKASHIMAYA VISA CARD,DBS Takashimaya Visa Card,DBS Takashimaya Visa Card
+Credit,Amex,DBS,DBS Treasures Black Elite Card,,DBS Treasures Black Elite Card,DBS Treasures Black Elite Card
+Debit,Visa,DBS,DBS Treasures Debit Card,,DBS Treasures Debit Card,DBS Treasures Debit Card
+Credit,Visa,DBS,DBS Treasures Visa Infinite Card,,DBS Treasures Visa Infinite Card,DBS Treasures Visa Infinite Card
+Credit,UnionPay,DBS,DBS UnionPay Platinum,,DBS UnionPay Platinum,DBS UnionPay Platinum
+Debit,Visa,DBS,DBS Visa Debit Card,,DBS Visa Debit Card,DBS Visa Debit Card
+Credit,Master,DBS,DBS Woman's Card,DBS WOMAN'S CARD,DBS Woman's Card,DBS Woman's Card
+Credit,Master,DBS,DBS Woman's World Card,DBS WOMAN'S WORLD CARD,DBS Woman's World Card,DBS Woman's World Card
+Debit,Master,POSB,HomeTeamNS-PAssion-POSB Debit Card,,HomeTeamNS-PAssion-POSB Debit Card,HomeTeamNS-PAssion-POSB Debit Card
+Debit,Master,POSB,PAssion POSB Debit Card,,PAssion POSB Debit Card,PAssion POSB Debit Card
+Credit,Master,POSB,POSB Everyday Card,,POSB Everyday Card,POSB Everyday Card
+Credit,Master,DBS,SAFRA DBS Card,DBS SAFRA CARD,SAFRA DBS Card,SAFRA DBS Card
+Debit,Master,DBS,SAFRA DBS Debit Card,,SAFRA DBS Debit Card,SAFRA DBS Debit Card
+Debit,Visa,DBS,DBS Treasures Private Client Debit Card,,DBS Treasures Private Client Debit Card,DBS Treasures Private Client Debit Card
+Credit,Master,UOB,UOB Lady's Card,UOB LADY'S CARD,UOB Lady's Card,uob_all
+Credit,Visa,UOB,UOB ONE Card,UOB ONE CARD,UOB ONE Card,uob_all
+Debit,Master,UOB,UOB Debit Card,,UOB Debit Card,uob_all
+Debit,Master,UOB,UOB Lady's Debit Card,,UOB Lady's Debit Card,uob_all
+Credit,Visa,UOB,UOB YOLO Card,UOB YOLO CARD,UOB YOLO Card,uob_all
+Credit,Master,UOB,UOB Professionals Platinum Card,UOB PROFESSIONALS PLATINUM CARD,UOB Professionals Platinum Card,uob_all
+Credit,Visa,UOB,Metro-UOB Card,UOB METRO-UOB CARD,Metro-UOB Card,uob_all
+Credit,Master,UOB,UOB PRVI Miles World Mastercard Card,UOB PRVI MILES WORLD MASTERCARD,UOB PRVI Miles World Mastercard Card,uob_all
+Credit,Visa,UOB,UOB Preferred Platinum Visa Card,UOB PREFERRED PLATINUM VISA CARD,UOB Preferred Platinum Visa Card,uob_all
+Debit,Visa,UOB,UOB Direct Visa Debit Card,,UOB Direct Visa Debit Card,uob_all
+Debit,Master,UOB,KrisFlyer UOB Debit Card,,KrisFlyer UOB Debit Card,uob_all
+Credit,Master,UOB,UOB Lady's Solitaire Card,,UOB Lady's Solitaire Card,uob_all
+Credit,Visa,UOB,Singtel-UOB Card,UOB SINGTEL-UOB CARD,Singtel-UOB Card,uob_all
+Credit,Visa,UOB,UOB Visa Signature Card,UOB VISA SIGNATURE CARD,UOB Visa Signature Card,uob_all
+Credit,JCB,UOB,UOB JCB Card,UOB JCB CARD,UOB JCB Card,uob_all
+Credit,Master,UOB,KrisFlyer UOB Credit Card,KRISFLYER UOB CREDIT CARD,KrisFlyer UOB Credit Card,uob_all
+Credit,Visa,UOB,UOB PRVI Miles Visa Card,UOB PRVI MILES VISA CARD,UOB PRVI Miles Visa Card,uob_all
+Credit,Visa,UOB,UOB Visa Infinite Metal Card,UOB VISA INFINITE CARD,UOB Visa Infinite Metal Card,uob_all
+Credit,UnionPay,UOB,UOB UnionPay Card,UOB UNIONPAY PLATINUM CARD,UOB UnionPay Card,uob_all
+Credit,AMEX,UOB,UOB PRVI Miles American Express Card,UOB PRVI MILES AMERICAN EXPRESS CARD,UOB PRVI Miles American Express Card,uob_all
+Credit,Visa,OCBC,OCBC VOYAGE Card,OCBC Voyage Card,OCBC VOYAGE Card,ocbc_all
+Credit,Visa,OCBC,OCBC 365 Credit Card,OCBC 365 Credit Card,OCBC 365 Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC Cashflo Credit Card,OCBC CashFlo Credit Card,OCBC Cashflo Credit Card,ocbc_all
+Credit,Visa,OCBC,FRANK Credit Card,OCBC Frank Credit ,FRANK Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC Great Eastern Credit Card,OCBC Great Eastern Cashflo Credit Card,OCBC Great Eastern Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC Titanium Rewards Credit Card,OCBC Titanium Rewards Credit Card- Blue Card Face,OCBC Titanium Rewards Credit Card,ocbc_all
+Credit,Visa,OCBC,OCBC Robinsons Group  Credit Card,OCBC Robinson Group Credit Card,OCBC Robinsons Group  Credit Card,ocbc_all
+Credit,Visa,OCBC,OCBC Plus! Visa Credit Card,OCBC Plus! Credit Card,OCBC Plus! Visa Credit Card,ocbc_all
+Credit,Visa,OCBC,NTUC Plus! Visa Credit Card,OCBC NTUC Plus! Credit Card,NTUC Plus! Visa Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC Arts Credit Card,OCBC Arts Platinum Mastercard,OCBC Arts Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC Platinum Credit Card,OCBC Platinum Credit Card,OCBC Platinum Credit Card,ocbc_all
+Credit,Master,OCBC,OCBC BEST Denki Credit Card,OCBC BEST Denki Credit Card,OCBC BEST Denki Credit Card,ocbc_all
+Debit,Visa,OCBC,FRANK Debit Card,,FRANK Debit Card,ocbc_all
+Debit,Visa,OCBC,OCBC YES! Debit Card,,OCBC YES! Debit Card,ocbc_all
+Debit,Visa,OCBC,OCBC Plus! Visa Debit Card,,OCBC Plus! Visa Debit Card,ocbc_all
+Debit,Visa,OCBC,NTUC Plus! Visa Debit Card,,NTUC Plus! Visa Debit Card,ocbc_all
+Credit,Visa,OCBC,OCBC VOYAGE Card,OCBC Voyage Card,OCBC VOYAGE Card,ocbc_all
+Credit,Master,SCB,Unlimited Cashback Credit Card,Standard Chartered Unlimited Credit Card,Unlimited Cashback Credit Card,scb_all
+Credit,Visa,SCB,Rewards+ Credit Card,Standard Chartered Rewards+ Credit Card,Rewards+ Credit Card,scb_all
+Credit,Visa,SCB,Spree Credit Card,Standard Chartered Spree Credit Card,Spree Credit Card,scb_all
+Credit,Visa,SCB,Visa Infinite Credit Card,Standard Chartered Visa Infinite Credit Card,Visa Infinite Credit Card,scb_all
+Credit,Visa,SCB,Prudential Platinum Card,Standard Chartered Prudential Platinum Credit Card,Prudential Platinum Card,scb_all
+Credit,Visa,SCB,Platinum Visa Credit Card,Standard Chartered Platinum Visa Credit Card,Platinum Visa Credit Card,scb_all
+Credit,Visa,SCB,Platinum Mastercard Credit Card,Standard Chartered Platinum MasterCard Credit Card,Platinum Mastercard Credit Card,scb_all
+Credit,Visa,SCB,PruPrestige Visa Signature Card,Standard Chartered PruPrestige Visa Signature Credit Card,PruPrestige Visa Signature Card,scb_all
+Credit,Visa,SCB,NUS Alumni Platinum Card,Standard Chartered NUS Alumni Platinum Credit Card,NUS Alumni Platinum Card,scb_all
+Credit,Visa,SCB,Business Platinum Card,,Business Platinum Card,scb_all
+Credit,Visa,SCB,Priority Visa Infinite Credit Card,,Priority Visa Infinite Credit Card,scb_all
+Credit,Master,SCB,MANHATTAN Platinum/World Mastercard,,MANHATTAN Platinum/World Mastercard,scb_all
+Debit,Master,SCB,MANHATTAN $500 Card,,MANHATTAN $500 Card,scb_all
+Credit,Visa,HSBC,HSBC Visa Platinum Credit Card,HSBC Visa Platinum Credit Card,HSBC Visa Platinum Credit Card,hsbc_all
+Credit,Visa,HSBC,HSBC Advance Credit Card,HSBC Advance Credit Card,HSBC Advance Credit Card,hsbc_all
+Credit,Visa,HSBC,HSBC Revolution Credit Card,HSBC Revolution Credit Card,HSBC Revolution Credit Card,hsbc_all
+Credit,Visa,HSBC,HSBC Visa Infinite Credit Card,HSBC Visa Infinite Credit Card,HSBC Visa Infinite Credit Card,hsbc_all
+Credit,Master,HSBC,HSBC Premier MasterCard Credit Card,HSBC Premier MasterCard Credit Card,HSBC Premier MasterCard Credit Card,hsbc_all
+Debit,Visa,Citi,Citibank Clear Card,Citibank Clear Card,Citibank Clear Card,citi_all
+Credit,Visa,Citi,Citi SMRT Platinum Visa Card,Citi SMRT Platinum Visa Card,Citi SMRT Platinum Visa Card,citi_all
+Credit,Visa,Citi,Citibank M1 Platinum Visa Card,Citibank M1 Platinum Visa Card,Citibank M1 Platinum Visa Card,citi_all
+Credit,Visa,Citi,Citi Cashback Credit Card,Citi Cashback Credit Card,Citi Cashback Credit Card,citi_all
+Credit,Visa,Citi,Citi Rewards Visa Card,Citi Rewards Visa Card,Citi Rewards Visa Card,citi_all
+Credit,Master,Citi,Citi Prestige Card,Citi Prestige Card,Citi Prestige Card,citi_all
+Credit,Visa,Citi,Citi PremierMiles Visa Cards,Citi PremierMiles Visa Cards,Citi PremierMiles Visa Cards,citi_all
+Credit,Visa,Citi,Citi Corporate Card,,,citi_all
+Credit,Visa,Citi,Citi Business Card,,,citi_all
+Credit,Visa,Citi,Citi Purchasing Card,,,citi_all
+Debit,Visa,Citi,Citibank Clear Card,Citibank Clear Card,Citibank Clear Card,citi_visa
+Credit,Visa,Citi,Citi SMRT Platinum Visa Card,Citi SMRT Platinum Visa Card,Citi SMRT Platinum Visa Card,citi_visa
+Credit,Visa,Citi,Citibank M1 Platinum Visa Card,Citibank M1 Platinum Visa Card,Citibank M1 Platinum Visa Card,citi_visa
+Credit,Visa,Citi,Citi Cashback Credit Card,Citi Cashback Credit Card,Citi Cashback Credit Card,citi_visa
+Credit,Visa,Citi,Citi Rewards Visa Card,Citi Rewards Visa Card,Citi Rewards Visa Card,citi_visa
+Credit,Master,Citi,Citi Prestige Card,Citi Prestige Card,Citi Prestige Card,citi_master
+Credit,Visa,Citi,Citi PremierMiles Visa Cards,Citi PremierMiles Visa Cards,Citi PremierMiles Visa Cards,citi_visa
+Credit,Visa,Citi,Citi Corporate Card,,,citi_visa
+Credit,Visa,Citi,Citi Business Card,,,citi_visa
+Credit,Visa,Citi,Citi Purchasing Card,,,citi_visa
+Credit,Visa,HSBC,HSBC Visa Platinum Credit Card,HSBC Visa Platinum Credit Card,HSBC Visa Platinum Credit Card,hsbc_visa
+Credit,Visa,HSBC,HSBC Advance Credit Card,HSBC Advance Credit Card,HSBC Advance Credit Card,hsbc_visa
+Credit,Visa,HSBC,HSBC Revolution Credit Card,HSBC Revolution Credit Card,HSBC Revolution Credit Card,hsbc_visa
+Credit,Visa,HSBC,HSBC Visa Infinite Credit Card,HSBC Visa Infinite Credit Card,HSBC Visa Infinite Credit Card,hsbc_visa
+Credit,Master,HSBC,HSBC Premier MasterCard Credit Card,HSBC Premier MasterCard Credit Card,HSBC Premier MasterCard Credit Card,hsbc_master
+Credit,Visa,OCBC,OCBC VOYAGE Card,OCBC Voyage Card,OCBC VOYAGE Card,ocbc voyage card
+Credit,Master,SCB,Unlimited Cashback Credit Card,Standard Chartered Unlimited Credit Card,Unlimited Cashback Credit Card,scb_master
+Credit,Visa,SCB,Rewards+ Credit Card,Standard Chartered Rewards+ Credit Card,Rewards+ Credit Card,scb_visa
+Credit,Visa,SCB,Spree Credit Card,Standard Chartered Spree Credit Card,Spree Credit Card,scb_visa
+Credit,Visa,SCB,Visa Infinite Credit Card,Standard Chartered Visa Infinite Credit Card,Visa Infinite Credit Card,scb_visa
+Credit,Visa,SCB,Prudential Platinum Card,Standard Chartered Prudential Platinum Credit Card,Prudential Platinum Card,scb_visa
+Credit,Visa,SCB,Platinum Visa Credit Card,Standard Chartered Platinum Visa Credit Card,Platinum Visa Credit Card,scb_visa
+Credit,Visa,SCB,Platinum Mastercard Credit Card,Standard Chartered Platinum MasterCard Credit Card,Platinum Mastercard Credit Card,scb_visa
+Credit,Visa,SCB,PruPrestige Visa Signature Card,Standard Chartered PruPrestige Visa Signature Credit Card,PruPrestige Visa Signature Card,scb_visa
+Credit,Visa,SCB,NUS Alumni Platinum Card,Standard Chartered NUS Alumni Platinum Credit Card,NUS Alumni Platinum Card,scb_visa
+Credit,Visa,SCB,Business Platinum Card,,Business Platinum Card,scb_visa
+Credit,Visa,SCB,Priority Visa Infinite Credit Card,,Priority Visa Infinite Credit Card,scb_visa
+Credit,Master,SCB,MANHATTAN Platinum/World Mastercard,,MANHATTAN Platinum/World Mastercard,scb_master
+Debit,Master,SCB,MANHATTAN $500 Card,,MANHATTAN $500 Card,scb_master
+Credit,Master,UOB,UOB Lady's Card,UOB LADY'S CARD,UOB Lady's Card,uob_master
+Credit,Visa,UOB,UOB ONE Card,UOB ONE CARD,UOB ONE Card,uob_visa
+Debit,Master,UOB,UOB Debit Card,,UOB Debit Card,uob_master
+Debit,Master,UOB,UOB Lady's Debit Card,,UOB Lady's Debit Card,uob_master
+Credit,Visa,UOB,UOB YOLO Card,UOB YOLO CARD,UOB YOLO Card,uob_visa
+Credit,Master,UOB,UOB Professionals Platinum Card,UOB PROFESSIONALS PLATINUM CARD,UOB Professionals Platinum Card,uob_master
+Credit,Visa,UOB,Metro-UOB Card,UOB METRO-UOB CARD,Metro-UOB Card,uob_visa
+Credit,Master,UOB,UOB PRVI Miles World Mastercard Card,UOB PRVI MILES WORLD MASTERCARD,UOB PRVI Miles World Mastercard Card,uob_master
+Credit,Visa,UOB,UOB Preferred Platinum Visa Card,UOB PREFERRED PLATINUM VISA CARD,UOB Preferred Platinum Visa Card,uob_visa
+Debit,Visa,UOB,UOB Direct Visa Debit Card,,UOB Direct Visa Debit Card,uob_visa
+Debit,Master,UOB,KrisFlyer UOB Debit Card,,KrisFlyer UOB Debit Card,uob_master
+Credit,Master,UOB,UOB Lady's Solitaire Card,,UOB Lady's Solitaire Card,uob_master
+Credit,Visa,UOB,Singtel-UOB Card,UOB SINGTEL-UOB CARD,Singtel-UOB Card,uob_visa
+Credit,Visa,UOB,UOB Visa Signature Card,UOB VISA SIGNATURE CARD,UOB Visa Signature Card,uob_visa
+Credit,JCB,UOB,UOB JCB Card,UOB JCB CARD,UOB JCB Card,uob_jcb
+Credit,Master,UOB,KrisFlyer UOB Credit Card,KRISFLYER UOB CREDIT CARD,KrisFlyer UOB Credit Card,uob_master
+Credit,Visa,UOB,UOB PRVI Miles Visa Card,UOB PRVI MILES VISA CARD,UOB PRVI Miles Visa Card,uob_visa
+Credit,Visa,UOB,UOB Visa Infinite Metal Card,UOB VISA INFINITE CARD,UOB Visa Infinite Metal Card,uob_visa
+Credit,UnionPay,UOB,UOB UnionPay Card,UOB UNIONPAY PLATINUM CARD,UOB UnionPay Card,uob_unionpay
+Credit,AMEX,UOB,UOB PRVI Miles American Express Card,UOB PRVI MILES AMERICAN EXPRESS CARD,UOB PRVI Miles American Express Card,uob_amex
+Credit,Master,UOB,UOB Lady's Card,UOB LADY'S CARD,UOB Lady's Card,uob_lady
+Debit,Master,UOB,UOB Lady's Debit Card,,UOB Lady's Debit Card,uob_ladydebit
+Credit,AMEX,DBS,DBS Altitude American Express® Card,,DBS Altitude American Express® Card,dbs_all
+Credit,Visa,DBS,DBS Altitude Visa Signature Card,DBS ALTITUDE VISA SIGNATURE CARD,DBS Altitude Visa Signature Card,dbs_all
+Credit,AMEX,DBS,DBS Black American Express® Card,DBS BLACK AMERICAN EXPRESS CARD,DBS Black American Express® Card,dbs_all
+Credit,Visa,DBS,DBS Black Visa Card,DBS BLACK VISA CARD,DBS Black Visa Card,dbs_all
+Credit,Master,DBS,DBS Esso Card,DBS ESSO CARD,DBS Esso Card,dbs_all
+Credit,Visa,DBS,DBS Insignia Visa Infinite Card,,DBS Insignia Visa Infinite Card,dbs_all
+Credit,Visa,DBS,DBS Live Fresh Card,DBS LIVE FRESH VISA CARD,DBS Live Fresh Card,dbs_all
+Debit,Visa,DBS,DBS Live Fresh Student Card,,DBS Live Fresh Student Card,dbs_all
+Credit,Master,DBS,DBS MasterCard Platinum Card,,DBS MasterCard Platinum Card,dbs_all
+Credit,Master,DBS,DBS NUS Alumni Card,DBS NUS ALUMNI & DBS NUSS CARDS,DBS NUS Alumni Card,dbs_all
+Credit,Visa,DBS,DBS NUSS Visa Platinum Card ,DBS NUS ALUMNI & DBS NUSS CARDS,DBS NUSS Visa Platinum Card ,dbs_all
+Debit,Master,DBS,DBS NUSSU Debit Card,,DBS NUSSU Debit Card,dbs_all
+Debit,Visa,DBS,DBS Private Bank Debit Card,,DBS Private Bank Debit Card,dbs_all
+Debit,Visa,DBS,DBS SUTD Alumnus Debit Card,,DBS SUTD Alumnus Debit Card,dbs_all
+Credit,AMEX,DBS,DBS Takashimaya American Express® Card,DBS TAKASHIMAYA AMERICAN EXPRESS CARD,DBS Takashimaya American Express® Card,dbs_all
+Debit,Visa,DBS,DBS Takashimaya Debit Card,,DBS Takashimaya Debit Card,dbs_all
+Credit,Visa,DBS,DBS Takashimaya Visa Card,DBS TAKASHIMAYA VISA CARD,DBS Takashimaya Visa Card,dbs_all
+Credit,Amex,DBS,DBS Treasures Black Elite Card,,DBS Treasures Black Elite Card,dbs_all
+Debit,Visa,DBS,DBS Treasures Debit Card,,DBS Treasures Debit Card,dbs_all
+Credit,Visa,DBS,DBS Treasures Visa Infinite Card,,DBS Treasures Visa Infinite Card,dbs_all
+Credit,UnionPay,DBS,DBS UnionPay Platinum,,DBS UnionPay Platinum,dbs_all
+Debit,Visa,DBS,DBS Visa Debit Card,,DBS Visa Debit Card,dbs_all
+Credit,Master,DBS,DBS Woman's Card,DBS WOMAN'S CARD,DBS Woman's Card,dbs_all
+Credit,Master,DBS,DBS Woman's World Card,DBS WOMAN'S WORLD CARD,DBS Woman's World Card,dbs_all
+Credit,Master,DBS,SAFRA DBS Card,DBS SAFRA CARD,SAFRA DBS Card,dbs_all
+Debit,Master,DBS,SAFRA DBS Debit Card,,SAFRA DBS Debit Card,dbs_all
+Debit,Visa,DBS,DBS Treasures Private Client Debit Card,,DBS Treasures Private Client Debit Card,dbs_all
+Credit,Visa,OCBC,OCBC VOYAGE Card,OCBC Voyage Card,OCBC VOYAGE Card,ocbc_visa
+Credit,Visa,OCBC,OCBC 365 Credit Card,OCBC 365 Credit Card,OCBC 365 Credit Card,ocbc_visa
+Credit,Master,OCBC,OCBC Cashflo Credit Card,OCBC CashFlo Credit Card,OCBC Cashflo Credit Card,ocbc_master
+Credit,Visa,OCBC,FRANK Credit Card,OCBC Frank Credit ,FRANK Credit Card,ocbc_visa
+Credit,Master,OCBC,OCBC Great Eastern Credit Card,OCBC Great Eastern Cashflo Credit Card,OCBC Great Eastern Credit Card,ocbc_master
+Credit,Master,OCBC,OCBC Titanium Rewards Credit Card,OCBC Titanium Rewards Credit Card- Blue Card Face,OCBC Titanium Rewards Credit Card,ocbc_master
+Credit,Visa,OCBC,OCBC Robinsons Group  Credit Card,OCBC Robinson Group Credit Card,OCBC Robinsons Group  Credit Card,ocbc_visa
+Credit,Visa,OCBC,OCBC Plus! Visa Credit Card,OCBC Plus! Credit Card,OCBC Plus! Visa Credit Card,ocbc_visa
+Credit,Visa,OCBC,NTUC Plus! Visa Credit Card,OCBC NTUC Plus! Credit Card,NTUC Plus! Visa Credit Card,ocbc_visa
+Credit,Master,OCBC,OCBC Arts Credit Card,OCBC Arts Platinum Mastercard,OCBC Arts Credit Card,ocbc_master
+Credit,Master,OCBC,OCBC Platinum Credit Card,OCBC Platinum Credit Card,OCBC Platinum Credit Card,ocbc_master
+Credit,Master,OCBC,OCBC BEST Denki Credit Card,OCBC BEST Denki Credit Card,OCBC BEST Denki Credit Card,ocbc_master
+Debit,Visa,OCBC,FRANK Debit Card,,FRANK Debit Card,ocbc_visa
+Debit,Visa,OCBC,OCBC YES! Debit Card,,OCBC YES! Debit Card,ocbc_visa
+Debit,Visa,OCBC,OCBC Plus! Visa Debit Card,,OCBC Plus! Visa Debit Card,ocbc_visa
+Debit,Visa,OCBC,NTUC Plus! Visa Debit Card,,NTUC Plus! Visa Debit Card,ocbc_visa
+Credit,Visa,OCBC,OCBC VOYAGE Card,OCBC Voyage Card,OCBC VOYAGE Card,ocbc_visa
